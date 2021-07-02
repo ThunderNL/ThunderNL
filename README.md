@@ -1,5 +1,4 @@
 ### Hi there 👋
-- 🔭 I’m currently working on Beany: The First Chapter
 - 🌱 I’m currently learning to make games in MakeCode Arcade
 - 📫 How to reach me: Discord: ThunderNL#2324
 - 😄 Pronouns: He/Him
